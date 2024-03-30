@@ -1,2 +1,2 @@
 # first-web-site
-Kodluyoruz HW1
+Kodluyoruz'un HTML eğitim serisinde tamamladığım ilk ödev.
